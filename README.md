@@ -1,4 +1,4 @@
-# DiskShadowCopyNtds.dit
+# DiskShadowCopyNtds
 
 Comes from https://pentestlab.blog/tag/ntds-dit/
 
