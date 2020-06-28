@@ -1,0 +1,1 @@
+# DiskShadowCopyNtds.dit
