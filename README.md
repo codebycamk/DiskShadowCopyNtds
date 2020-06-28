@@ -1,4 +1,4 @@
-# DiskShadowCopyNtds.dit
+# Use DiskShadow to copy NTDS.dit
 
 Comes from https://pentestlab.blog/tag/ntds-dit/
 
